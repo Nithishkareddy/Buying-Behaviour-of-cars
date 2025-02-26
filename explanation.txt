@@ -1,0 +1,18 @@
+1.Age Distribution Plot
+X-Axis: The age of the buyers.
+Y-Axis: Number of buyers in each age group.
+🔹 Insight: We can identify which age group buys the most vehicles.
+2️.Total Salary vs Vehicle Price Scatterplot
+X-Axis: Total Salary (in Lakhs) → How much the buyer earns.
+Y-Axis: Vehicle Price (in Lakhs) → How much they spent on a vehicle.
+Color
+🔴 Red Dots = Buyers who don’t have a personal loan.
+🟢 Green Dots = Buyers who have taken a personal loan.
+🔹 Annotations
+Bottom-left (low salary, cheap car).
+Top-right (high salary, expensive car).
+3️.Correlation Heatmap
+🔹 What Do The Numbers Mean?
+1.0 = Strong Positive Correlation (as one increases, the other increases).
+0.0 = No relationship between variables.
+-1.0 = Strong Negative Correlation (as one increases, the other decreases).
